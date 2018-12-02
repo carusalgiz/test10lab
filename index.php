@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Regexp</title>
+    <title>Regexp - task</title>
 </head>
 <style>
     label {
