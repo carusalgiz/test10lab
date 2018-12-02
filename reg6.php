@@ -1,6 +1,6 @@
 <?php
 $text = $_POST['content6'];
-echo $text,'<br>';
+echo $text,'<br>help';
 $result = preg_match_all('/[;,:]{1}-*(\(+|\)+|\[+|\]+)/', $text, $res1);
 print_r($res1[0]);
 echo '<br>';
